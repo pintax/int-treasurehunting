@@ -1,0 +1,8 @@
+{
+  "name": "treasurehunting",
+  "app_id": "90d0ed9f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
